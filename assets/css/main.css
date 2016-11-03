@@ -2400,7 +2400,7 @@
 		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
 		background-position:top left, top center;
 		background-repeat: repeat, no-repeat;
-		background-size: 25em, 25em, auto, cover;
+		background-size: auto, cover;
 		color: #fff;
 		cursor: default;
 		padding: 6em 0;
