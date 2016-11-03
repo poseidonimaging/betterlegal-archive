@@ -2672,7 +2672,7 @@
 		/* Banner */
 
 			#banner {
-				background-size: 15em, 15em, auto, cover;
+				background-size: auto, cover;
 			}
 
 		/* Main */
@@ -2684,7 +2684,7 @@
 		/* CTA */
 
 			#cta {
-				background-size: 15em, 15em, auto, cover;
+				background-size: auto, cover;
 				padding: 3em;
 			}
 
