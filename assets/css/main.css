@@ -2221,7 +2221,7 @@
 				#header nav ul li a {
 					border: solid 1px transparent;
 					background: #83d3c9;
-					color: inherit;
+					color: #fff;
 					font-weight: 900;
 					display: inline-block;
 					line-height: 1em;
